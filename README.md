@@ -1,2 +1,2 @@
 # Gallery-filltering
-Using Pure JS
+> Pure javascript fillter effect
